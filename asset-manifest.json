@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cotizador_de_prestamos/static/css/main.7f7c69b3.chunk.css",
+    "main.js": "/cotizador_de_prestamos/static/js/main.5289ea30.chunk.js",
+    "main.js.map": "/cotizador_de_prestamos/static/js/main.5289ea30.chunk.js.map",
+    "runtime-main.js": "/cotizador_de_prestamos/static/js/runtime-main.7a9fb1a6.js",
+    "runtime-main.js.map": "/cotizador_de_prestamos/static/js/runtime-main.7a9fb1a6.js.map",
+    "static/js/2.3f5166e5.chunk.js": "/cotizador_de_prestamos/static/js/2.3f5166e5.chunk.js",
+    "static/js/2.3f5166e5.chunk.js.map": "/cotizador_de_prestamos/static/js/2.3f5166e5.chunk.js.map",
+    "static/js/3.845d4040.chunk.js": "/cotizador_de_prestamos/static/js/3.845d4040.chunk.js",
+    "static/js/3.845d4040.chunk.js.map": "/cotizador_de_prestamos/static/js/3.845d4040.chunk.js.map",
+    "index.html": "/cotizador_de_prestamos/index.html",
+    "static/css/main.7f7c69b3.chunk.css.map": "/cotizador_de_prestamos/static/css/main.7f7c69b3.chunk.css.map",
+    "static/js/2.3f5166e5.chunk.js.LICENSE.txt": "/cotizador_de_prestamos/static/js/2.3f5166e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a9fb1a6.js",
+    "static/js/2.3f5166e5.chunk.js",
+    "static/css/main.7f7c69b3.chunk.css",
+    "static/js/main.5289ea30.chunk.js"
+  ]
+}
